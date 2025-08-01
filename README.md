@@ -13,7 +13,4 @@ A professional, full-stack Intern Portal built using the **MERN stack (MongoDB, 
 - Fully responsive, elegant UI with custom CSS
 - Easy local setup, no database/config headache
 
----
-
-## 📦 Folder Structure
 
