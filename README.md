@@ -1,6 +1,7 @@
 # 1️⃣ Clone this repository: 
 
-git clone https://github.com/yourusername/Portal.git
+git clone https://github.com/Ramdubey-08/Potral.git 
+
 cd Portal
 
 ---
@@ -8,8 +9,11 @@ cd Portal
 ## 2️⃣ Start the backend (Express server):
 
 cd backend
+
 npm install
+
 npm start
+
 # Runs at http://localhost:5000
 
 ---
@@ -17,7 +21,9 @@ npm start
 ##  Start the frontend (React):
 
 cd ../frontend
+
 npm install
+
 npm start
 # Open browser and go to http://localhost:3000
 
